@@ -3,7 +3,7 @@
 # ECR Push Script
 # Author: Sadhvi - Cloud Engineer
 
-ACCOUNT_ID="413238766748"
+ACCOUNT_ID="YOUR-ACCOUNT-ID"
 REGION="ca-central-1"
 REPO_NAME="flask-docker-app"
 
