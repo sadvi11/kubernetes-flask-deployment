@@ -50,4 +50,4 @@ flask-deployment-5895b79cb5-27jng   1/1   Running
 flask-deployment-5895b79cb5-7thmv   1/1   Running
 
 ## Author
-Sadhvi - Cloud Engineer | AWS Certified Solution Architect
+Sadhvi - Cloud Engineer | AWS Cloud Practitioner | AWS SAA-C03 In Progress
